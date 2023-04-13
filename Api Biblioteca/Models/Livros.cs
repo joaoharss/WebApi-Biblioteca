@@ -13,11 +13,8 @@ namespace Api_Biblioteca.Models
 
         public static Livros? Create(Livros livro, BibliotecaContext _bibliotecaContext)
         {
-
             if (String.IsNullOrEmpty(livro.Name))
-            {
                 return null;
-            }
 
             _bibliotecaContext.Livros.Add(livro);
             _bibliotecaContext.SaveChanges();
@@ -28,9 +25,7 @@ namespace Api_Biblioteca.Models
         {
             Livros? livro = GetBookById(id, _bibliotecaContext);
             if (livro == null)
-            {
                 return null;
-            }
             return livro.Name;
         }
 
@@ -38,9 +33,7 @@ namespace Api_Biblioteca.Models
         {
             Livros? livroGettedById = _bibliotecaContext.Livros.Where(i => id.Equals(id)).FirstOrDefault();
             if (livroGettedById != null)
-            {
                 return livroGettedById;
-            }
             return null;
         }
     }

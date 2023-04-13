@@ -22,9 +22,7 @@ namespace Api_Biblioteca.Controllers
             Livros? livro = Livros.GetBookById(id, _bibliotecaContext);
 
             if (livro == null)
-            {
                 return NotFound("Livro não encontrado.");
-            }
             return Ok(livro);
 
         }
