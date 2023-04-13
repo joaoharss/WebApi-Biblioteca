@@ -1,0 +1,36 @@
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.csproj.AssemblyReference.cache
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.AssemblyInfoInputs.cache
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.AssemblyInfo.cs
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.csproj.CoreCompileInputs.cache
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.MvcApplicationPartsAssemblyInfo.cs
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\appsettings.Development.json
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\appsettings.json
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Api Biblioteca.exe
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Api Biblioteca.deps.json
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Api Biblioteca.runtimeconfig.json
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Api Biblioteca.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Api Biblioteca.pdb
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\staticwebassets\msbuild.Api Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\staticwebassets\msbuild.build.Api Biblioteca.props
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api Biblioteca.props
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api Biblioteca.props
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\staticwebassets.pack.json
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\staticwebassets.build.json
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\staticwebassets.development.json
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\scopedcss\bundle\Api Biblioteca.styles.css
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.csproj.CopyComplete
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\refint\Api Biblioteca.dll
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.pdb
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\Api Biblioteca.genruntimeconfig.cache
+D:\API Teste\Api Biblioteca\Api Biblioteca\obj\Debug\net7.0\ref\Api Biblioteca.dll
